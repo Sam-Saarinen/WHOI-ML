@@ -25,7 +25,18 @@ No prior knowledge of Machine Learning is assumed in this course, but a strong p
 - [Debugging in Python](https://realpython.com/python-debugging-pdb/). Although Jupyter notebooks make interactive programming and introspection through `print` statements very flexible, `pdb` may still be useful to developers aiming at 10x engineer status.
 
 # Additional Resources:
-These packages will not be used in this course, but those hoping to explore some areas in greater detail may find them worth looking into.  
+These resources will not be used in this course, but those hoping to explore some areas in greater detail may find them worth looking into.
+
+### Troubleshooting Neural Networks
+- Josh Tobin - [Troubleshooting Deep Neural Networks](http://josh-tobin.com/troubleshooting-deep-neural-networks.html)
+- Andrej Karpathy - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+    - See also: Karpathy's [tweet thread](https://twitter.com/karpathy/status/1013244313327681536) on common neural net mistakes
+- Matt Holt & Daniel Ricks - [Practical Advice for Building Deep Neural Networks](https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/)
+
+### Recurrent Networks
+- Andrej Karpathy - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+### Reinforcement Learning
 For those interested in doing more reinforcement learning experiments (on Markov Decision Processes, not Bandit Problems), the libraries `gym` and `simple_rl` may be helpful. These can be installed through a python package manager, such as `conda` or `pip`.
 
 # License Information
