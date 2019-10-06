@@ -33,6 +33,9 @@ These resources will not be used in this course, but those hoping to explore som
     - See also: Karpathy's [tweet thread](https://twitter.com/karpathy/status/1013244313327681536) on common neural net mistakes
 - Matt Holt & Daniel Ricks - [Practical Advice for Building Deep Neural Networks](https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/)
 
+### Parallel/Distributed Training
+- Thomas Wolf - [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed Setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)
+
 ### Recurrent Networks
 - Andrej Karpathy - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
