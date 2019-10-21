@@ -59,3 +59,6 @@ For those interested in doing more reinforcement learning experiments (on Markov
 
 # License Information
 All content in this repository is ©2019 (S)am. It has been made available for educational purposes, but copying or redistributing this content is not permitted. If you would like to suggest changes to this repository or correct errors, please contact the owner of this repository or submit a pull request.
+
+# Instructor Contact:
+`sam_saarinen@brown.edu`
