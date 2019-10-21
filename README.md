@@ -5,7 +5,7 @@ This Repository contains notes, resources, and assignments for a Machine Learnin
 This ReadMe outlines the content of the bootcamp, provides installation instructions for the required software packages, and suggests background reading material for extended study.
 
 # Course Structure
-The course will run over 3 days in 6 4-hour sessions. Each session will be broken up into 3-4 subsections consisting of presentation content and a practical component. Practical components are designed so that the minimal learning goals can be comfortably met within the allotted time, but stretch goals will allow participants to gain additional practice and deepen their understanding.
+The course will run over 3 days in six 4-hour sessions. Each session will be broken up into 3-4 subsections consisting of presentation content and a practical component. Practical components are designed so that the minimal learning goals can be comfortably met within the allotted time, but stretch goals will allow participants to gain additional practice and deepen their understanding.
 
 The six sections are:
 1. **The Machine Learning Pantry** - Machine Learning comes in several different flavors (supervised, unsupervised, reinforcement, etc.) and there are several ready-made libraries that will give us 80% of the functionality in 20% of the time. In this section, you will use scikit-learn and matplotlib to make predictions.
