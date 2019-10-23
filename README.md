@@ -49,6 +49,7 @@ These resources will not be used in this course, but those hoping to explore som
 
 ### Recurrent Networks
 - Andrej Karpathy - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- Chris Olah - [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ### Reinforcement Learning
 For those interested in doing more reinforcement learning experiments (on Markov Decision Processes, not Bandit Problems), the libraries `gym` and `simple_rl` may be helpful. These can be installed through a python package manager, such as `conda` or `pip`.
